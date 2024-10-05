@@ -1,0 +1,5 @@
+package RecyclerViewHelpersChat
+
+class AdaptadorChat {
+
+}

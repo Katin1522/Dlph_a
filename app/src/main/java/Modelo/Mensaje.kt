@@ -1,0 +1,11 @@
+package Modelo
+
+class Mensaje {
+
+   
+
+
+
+
+
+}

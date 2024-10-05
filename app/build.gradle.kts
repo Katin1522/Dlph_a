@@ -41,7 +41,10 @@ dependencies {
     implementation(libs.constraintlayout)
     implementation(libs.lifecycle.livedata.ktx)
     implementation(platform("com.google.firebase:firebase-bom:33.3.0"))
-
+    implementation ("com.google.firebase:firebase-auth:21.0.1")
+    implementation ("com.google.firebase:firebase-firestore:24.0.0")
+    implementation ("com.google.firebase:firebase-storage:20.0.0" )
+    implementation ("androidx.cardview:cardview:1.0.0")
     implementation(libs.lifecycle.viewmodel.ktx)
     implementation(libs.navigation.fragment)
     implementation(libs.navigation.ui)
